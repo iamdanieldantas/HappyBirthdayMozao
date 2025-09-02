@@ -24,10 +24,10 @@
 
   const data=[
     {title:"Primeira vez que você me levou em casa", text:"Nesse dia passamos a noite juntos e você tinha que ir trabalhar, mas foi me deixar em casa antes e eu já morrendo de saudade do meu dengo", img:"images/Image (1).png"},
-    {title:"Tide of Laughter", text:"You and me, collecting inside jokes like seashells. I love how your smile changes the tide of any day.", img:"images/Image (2).png"},
-    {title:"Chocolate Break", text:"Life pro tip: break chocolate, not hearts. Today I’m breaking all the rules to spoil you just a little more.", img:"images/Image (3).png"},
-    {title:"Sweet & Salty", text:"From salty sea breeze to sweet chocolate kisses—here’s to our perfect flavor combo.", img:"images/Image (4).png"},
-    {title:"Only Words", text:"No photo, just truth: I’m so proud of the man you are. Thank you for loving me in ways big and small. Happy Birthday, meu amor. To more beaches, more chocolate, and more ♥.", img:null}
+    {title:"Quando fomos ao cinema", text:"No dia anterior tínhamos terminado (por 1h) mas percebemos que não conseguimos ficar separados. Amo essa foto porque ela mostra o quanto nos amamos", img:"images/Image (2).png"},
+    {title:"Cozinhando juntos", text:"Nesse dia 'nós' fizemos macarrão, que por sinal estava uma delícia. Essa foto poética retrata a profundidade e a beleza do nosso amor ", img:"images/Image (3).png"},
+    {title:"Sou tão apaixonado por você", text:"Essa foto foi a que eu postei porque não aguentava mais não te mostrar pro mundo. Sou tão apaixonado meu tudo...", img:"images/Image (4).png"},
+    {title:"Feliz aniversário, mozao", text:"Você é uma pessoa tão especial pra mim. Nunca senti o que sinto por você por ninguém. Desejo que Deus te dê muitos anos de vida e que todos sejam ao meu lato. Te amo meu tudo <3", img:null}
   ];
 
   let i=0;
