@@ -1,0 +1,14 @@
+body { font-family: Arial, sans-serif; margin: 0; background: linear-gradient(135deg,#eaf3ff,#d0e8ff); min-height: 100vh; }
+.wrap { max-width: 900px; margin: auto; padding: 20px; }
+header { background: #ffffffcc; padding: 20px; border-radius: 12px; text-align: center; }
+h1 { color: #2563eb; }
+.card { background: #ffffffcc; padding: 20px; border-radius: 12px; margin-top: 20px; }
+.btn { padding: 10px 16px; border: none; border-radius: 8px; cursor: pointer; font-weight: bold; }
+.brand { background: #3b82f6; color: #fff; }
+.accent { background: #60a5fa; color: #fff; }
+.quiet { background: #f1f5f9; }
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: center; }
+@media(max-width:768px){ .grid{ grid-template-columns:1fr } }
+.photo img { width: 100%; border-radius: 10px; }
+.pager-ctl { display:flex; justify-content: space-between; margin-top: 10px; }
+.error { color: red; display: none; margin-top: 8px; font-weight: 600; }

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Parabéns Meu Tudo 💙</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Feliz Aniversário, Meu Amor! 💙</h1>
+    <p>Não sei se consegui guardar segredo hahahah </p>
+	<p>Espero que goste </p>
+  </header>
+
+  <section id="login" class="card">
+    <h2>🔒 Entrada Restrita</h2>
+    <p>A senha é nossa data que nos conhecemos:</p>
+    <input id="pw" type="password" placeholder="ex: 311220 (DDMMAA)" />
+    <div style="margin-top:10px">
+      <button id="enter" class="btn brand">Entrar</button>
+      <button id="show" class="btn quiet">🙈 Mostrar</button>
+    </div>
+    <div id="err" class="error">Wrong password. Try again 💗</div>
+  </section>
+
+  <section id="pager" class="card" style="display:none">
+    <div id="stage"></div>
+    <div class="pager-ctl">
+      <button id="prev" class="btn accent">⟵ Anterior</button>
+      <span id="counter"></span>
+      <button id="next" class="btn brand">Próximo ⟶</button>
+    </div>
+  </section>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
