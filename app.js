@@ -23,11 +23,14 @@
   pw.addEventListener("keydown", e=>{ if(e.key==='Enter') unlock(); });
 
   const data=[
-    {title:"Primeira vez que você me levou em casa", text:"Nesse dia passamos a noite juntos e você tinha que ir trabalhar, mas foi me deixar em casa antes e eu já morrendo de saudade do meu dengo", img:"images/Image (1).png"},
+    {title:"Mozao, ta funcionando?", text:"Que date incrível que tivemos hein. Que casalzão que somos... Obrigado por tudo, gatinho", img:"images/Image (6).png"},
+    {title:"O Aniversário é seu mas o presente é meu", text:"Separei algumas recordações nossas. Ta pronto?", img:"images/Image.png"},
+	  {title:"Primeira vez que você me levou em casa", text:"Nesse dia passamos a noite juntos e você tinha que ir trabalhar, mas foi me deixar em casa antes e eu já morrendo de saudade do meu dengo", img:"images/Image (1).png"},
     {title:"Quando fomos ao cinema", text:"No dia anterior tínhamos terminado (por 1h) mas percebemos que não conseguimos ficar separados. Amo essa foto porque ela mostra o quanto nos amamos", img:"images/Image (2).png"},
     {title:"Cozinhando juntos", text:"Nesse dia 'nós' fizemos macarrão, que por sinal estava uma delícia. Essa foto poética retrata a profundidade e a beleza do nosso amor ", img:"images/Image (3).png"},
-    {title:"Sou tão apaixonado por você", text:"Essa foto foi a que eu postei porque não aguentava mais não te mostrar pro mundo. Sou tão apaixonado meu tudo...", img:"images/Image (4).png"},
-    {title:"Feliz aniversário, mozao", text:"Você é uma pessoa tão especial pra mim. Nunca senti o que sinto por você por ninguém. Desejo que Deus te dê muitos anos de vida e que todos sejam ao meu lato. Te amo meu tudo <3", img:null}
+    {title:"Nossa comemoração de 2 meses", text:"Confesso que a foto não ficou tão boa, mas aquela noite foi incrível. Estar com você me faz bem, o tempo passa e eu não percebo. Quero isso pro resto da vida", img:"images/Image (5).png"},
+    {title:"Feliz aniversário, mozao", text:"Quero reforçar que você é uma pessoa especial pra mim e que sou louco por você. Desejo que Deus te dê muitos anos de vida e que todos sejam ao meu lato. Te amo meu tudo <3", img:null}
+
   ];
 
   let i=0;
