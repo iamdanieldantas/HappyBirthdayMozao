@@ -23,7 +23,7 @@
   pw.addEventListener("keydown", e=>{ if(e.key==='Enter') unlock(); });
 
   const data=[
-    {title:"Mozao, ta funcionando?", text:"Que date incrível que tivemos hein. Que casalzão que somos... Obrigado por tudo, gatinho", img:"images/Image (6).png"},
+    {title:"Mozao, ta funcionando?", text:"Que date incrível que tivemos hein. Que casalzão que somos... Obrigado por tudo, gatinho", img:"images/Image(6).png"},
     {title:"O Aniversário é seu mas o presente é meu", text:"Separei algumas recordações nossas. Ta pronto?", img:"images/Image.png"},
 	  {title:"Primeira vez que você me levou em casa", text:"Nesse dia passamos a noite juntos e você tinha que ir trabalhar, mas foi me deixar em casa antes e eu já morrendo de saudade do meu dengo", img:"images/Image (1).png"},
     {title:"Quando fomos ao cinema", text:"No dia anterior tínhamos terminado (por 1h) mas percebemos que não conseguimos ficar separados. Amo essa foto porque ela mostra o quanto nos amamos", img:"images/Image (2).png"},
